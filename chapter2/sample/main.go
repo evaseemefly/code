@@ -1,5 +1,7 @@
 package main
 
+// main函数必须保存在main包中
+// 代表导入一段代码
 import (
 	"log"
 	"os"
